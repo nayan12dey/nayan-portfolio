@@ -120,13 +120,13 @@ export default function Contact() {
             <div className="pt-6">
               <p className="text-sm text-gray-400 mb-4 font-medium tracking-wide">Connect with me on social platforms:</p>
               <div className="flex items-center gap-3">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-white hover:border-white/30 transition-all duration-300 hover:-translate-y-0.5">
+                <a href="https://github.com/nayan12dey" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-white hover:border-white/30 transition-all duration-300 hover:-translate-y-0.5">
                   <FaGithub size={18} />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-cyan-400 hover:border-cyan-500/30 transition-all duration-300 hover:-translate-y-0.5">
+                <a href="https://www.linkedin.com/in/nayandey26/" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-cyan-400 hover:border-cyan-500/30 transition-all duration-300 hover:-translate-y-0.5">
                   <FaLinkedin size={18} />
                 </a>
-                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-blue-400 hover:border-blue-500/30 transition-all duration-300 hover:-translate-y-0.5">
+                <a href="https://www.facebook.com/profile.php?id=100085230312482" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.02] text-gray-400 hover:text-blue-400 hover:border-blue-500/30 transition-all duration-300 hover:-translate-y-0.5">
                   <FaFacebook size={18} />
                 </a>
               </div>
