@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tech-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <!-- Background for contrast (Optional, remove if you want pure transparency) -->
+  <rect width="100" height="100" rx="20" fill="#0f172a"/>
+  <!-- The "N" -->
+  <path d="M25 25 H40 L60 60 V25 H75 V75 H60 L40 40 V75 H25 Z" fill="url(#tech-grad)" />
+</svg>
